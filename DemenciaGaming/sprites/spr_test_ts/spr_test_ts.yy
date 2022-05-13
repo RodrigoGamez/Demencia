@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "test",
-    "path": "folders/Sprites/test.yy",
+    "name": "gp_test",
+    "path": "folders/Sprites/gp_test.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_test_ts",

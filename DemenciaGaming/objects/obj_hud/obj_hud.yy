@@ -1,9 +1,6 @@
 {
-  "spriteId": {
-    "name": "spr_invisible_wall",
-    "path": "sprites/spr_invisible_wall/spr_invisible_wall.yy",
-  },
-  "solid": true,
+  "spriteId": null,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -20,15 +17,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "gp_checker",
-    "path": "folders/Objects/gp_checker.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_invisible_wall",
+  "name": "obj_hud",
   "tags": [],
   "resourceType": "GMObject",
 }

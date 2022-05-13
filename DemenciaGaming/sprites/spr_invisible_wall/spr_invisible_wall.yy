@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "chckers",
-    "path": "folders/Sprites/chckers.yy",
+    "name": "gp_chckers",
+    "path": "folders/Sprites/gp_chckers.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_invisible_wall",

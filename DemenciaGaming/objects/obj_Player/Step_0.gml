@@ -2,6 +2,8 @@
 // You can write your code in this editor
 
 
+//movement
+
 scr_linear_path(x, y, x_end_point, y_end_point, velocity, self);
 
 

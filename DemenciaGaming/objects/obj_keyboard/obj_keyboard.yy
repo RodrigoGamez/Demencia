@@ -23,8 +23,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "checkers",
-    "path": "folders/Objects/checkers.yy",
+    "name": "gp_checker",
+    "path": "folders/Objects/gp_checker.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_keyboard",

@@ -93,8 +93,8 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "player",
-    "path": "folders/Sprites/player.yy",
+    "name": "gp_player",
+    "path": "folders/Sprites/gp_player.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_player",
