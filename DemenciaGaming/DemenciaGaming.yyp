@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"obj_mouse_checker","path":"objects/obj_mouse_checker/obj_mouse_checker.yy",},"order":1,},
     {"id":{"name":"spr_test_ts","path":"sprites/spr_test_ts/spr_test_ts.yy",},"order":1,},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":7,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"ts_test","path":"tilesets/ts_test/ts_test.yy",},"order":0,},
     {"id":{"name":"spr_test_tile2","path":"sprites/spr_test_tile2/spr_test_tile2.yy",},"order":2,},
