@@ -6,6 +6,7 @@
     {"id":{"name":"ts_test","path":"tilesets/ts_test/ts_test.yy",},"order":0,},
     {"id":{"name":"spr_test_tile2","path":"sprites/spr_test_tile2/spr_test_tile2.yy",},"order":2,},
     {"id":{"name":"obj_keyboard","path":"objects/obj_keyboard/obj_keyboard.yy",},"order":1,},
+    {"id":{"name":"scr_linear_path","path":"scripts/scr_linear_path/scr_linear_path.yy",},"order":0,},
     {"id":{"name":"spr_mouse_checker","path":"sprites/spr_mouse_checker/spr_mouse_checker.yy",},"order":0,},
     {"id":{"name":"spr_invisible_wall","path":"sprites/spr_invisible_wall/spr_invisible_wall.yy",},"order":1,},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"order":0,},
